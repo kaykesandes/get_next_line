@@ -27,7 +27,9 @@ Functions
        **Description: Creates a new string with the remaining characters after a newline.
        **Parameters: char *left_str - Pointer to the string.
        **Returns: char * - Pointer to the new string, or NULL if the newline is not found or memory allocation fails.
+
 <br>
+
 ## Usage
 
     Include the get_next_line.h header file.
